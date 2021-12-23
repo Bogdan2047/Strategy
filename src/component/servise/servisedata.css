@@ -1,0 +1,27 @@
+.servisedata-block{
+    width: 30%;
+    color: white;
+    margin-left: 2.5%;
+    margin-top: 5%;
+}
+
+.servise-block-two-name span{
+    display: flex;
+    align-items: flex-start;
+    font-size: 40px;
+    font-weight: 500;
+    margin-left: 3%;
+    color: blue;
+}
+
+.servise-block-two-text{
+    background: rgba(32, 32, 32, 0.5);
+}
+
+.servise-block-two-text span{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 1%;
+    font-size: 15px;
+}

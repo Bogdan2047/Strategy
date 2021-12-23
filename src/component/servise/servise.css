@@ -1,0 +1,33 @@
+.servise-page{
+    background-color: rgba(0, 0, 0, 0.671);
+}
+
+.servise-block-one{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 70%;
+    margin-left: 15%;
+    background: rgba(32, 32, 32, 0.5);
+    height: 15rem;
+}
+
+.servise-block-one-name{
+    color: blue;
+    font-size: 30px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.servise-block-one-text{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 5%;
+}
+
+.servise-block-two{
+    display: flex;
+    flex-wrap: wrap;
+}

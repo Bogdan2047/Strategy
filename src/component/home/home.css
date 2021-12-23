@@ -1,0 +1,139 @@
+.home-page{
+    background-color: rgba(0, 0, 0, 0.671);
+}
+
+.block-one{
+    display: flex;
+    flex-direction: row;
+    background: rgba(32, 32, 32, 0.5);
+    width: 80%;
+    margin-left: 10%;
+    border-radius: 2px;
+}
+
+.carousel-item img{
+    height: 300px;
+    width: 400px;
+}
+
+.block-one-text{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 40%;
+    margin-left: 7%;
+    margin-top: 5%;
+}
+
+.block-name span{
+    color: blue;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.name-text span{
+    display: flex;
+    align-items: flex-start;
+    color: white;
+    font-size: 15px;
+}
+
+.block-two{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.block-column{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.about-us{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background: rgba(44, 44, 44, 0.5);
+    width: 30rem;
+}
+
+.about-us-name span{
+    font-size: 30px;
+    font-weight: 500;
+    color: blue;
+}
+
+.about-us-text{
+    color: white;
+    width: 30rem;
+}
+
+.about-us-text span{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 2%;
+}
+
+.our-goal{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background: rgba(44, 44, 44, 0.5);
+    margin-top: 5%;
+    width: 30rem;
+}
+
+.our-goal-name span{
+    font-size: 30px;
+    font-weight: 500;
+    color: blue;
+}
+
+.our-goal-text{
+    color: white;
+    width: 30rem;
+}
+
+.our-goal-text span{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 2%;
+}
+
+.servise{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 20%;
+    background: rgba(32, 32, 32, 0.5);
+    width: 20rem;
+}
+
+.servise-name{
+    margin-left: 22%;
+    margin-top: 10%;
+}
+
+.servise-name span{
+    font-size: 30px;
+    font-weight: 500;
+    color: blue;
+}
+
+.servise-text{
+    background: rgba(59, 59, 59, 0.5);
+    color: white;
+    width: 15rem;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.servise-text span{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
